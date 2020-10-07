@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/quiz/static/css/main.71cd1577.chunk.css",
+    "main.js": "/quiz/static/js/main.d96b48fb.chunk.js",
+    "main.js.map": "/quiz/static/js/main.d96b48fb.chunk.js.map",
+    "runtime-main.js": "/quiz/static/js/runtime-main.0f5f6437.js",
+    "runtime-main.js.map": "/quiz/static/js/runtime-main.0f5f6437.js.map",
+    "static/js/2.a6d4ca2f.chunk.js": "/quiz/static/js/2.a6d4ca2f.chunk.js",
+    "static/js/2.a6d4ca2f.chunk.js.map": "/quiz/static/js/2.a6d4ca2f.chunk.js.map",
+    "index.html": "/quiz/index.html",
+    "precache-manifest.4cb87f80bc74875ca0ada925cea41da9.js": "/quiz/precache-manifest.4cb87f80bc74875ca0ada925cea41da9.js",
+    "service-worker.js": "/quiz/service-worker.js",
+    "static/css/main.71cd1577.chunk.css.map": "/quiz/static/css/main.71cd1577.chunk.css.map",
+    "static/js/2.a6d4ca2f.chunk.js.LICENSE.txt": "/quiz/static/js/2.a6d4ca2f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/quiz/static/media/icon-check.4cffa739.svg",
+    "static/media/logo.svg": "/quiz/static/media/logo.84287d09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f5f6437.js",
+    "static/js/2.a6d4ca2f.chunk.js",
+    "static/css/main.71cd1577.chunk.css",
+    "static/js/main.d96b48fb.chunk.js"
+  ]
+}
